@@ -1,4 +1,6 @@
 # Forecasting hospital-level COVID-19 admissions
+[![DOI](https://zenodo.org/badge/580110094.svg)](https://zenodo.org/badge/latestdoi/580110094)
+
 Replication materials for "Forecasting hospital-level COVID-19 admissions using real-time mobility data" (Klein et al., 2023)
 
 - - - -
